@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+client/node_modules/
+pnpm-lock.yaml
+npm-debug.log*
+yarn-error.log*
+# builds
+client/dist/
+dist/
+build/
+# env
+.env
+client/.env
+.DS_Store
+*.log
+# editor
+.vscode/
+.idea/
+# coverage
+coverage/
+# misc
+*.local
